@@ -1,0 +1,75 @@
+.bg{
+    background-image:linear-gradient(rgba(62, 58, 58, 0.815),rgba(62, 57, 57, 0.84),rgba(71, 67, 67, 0.82)) ,url("sp.png");
+    height: 100vh;
+    width: 100%;
+}
+.nav{
+    font-size: 50px;
+    text-decoration: none;
+    float: right;
+    
+    color: blueviolet;
+    background-color: rgb(255, 0, 0);
+}
+.content{
+    color: aliceblue;
+    font-weight:bolder;
+    margin:100px;
+    text-align: center;
+    font-size: 50px;
+    
+}
+
+.container{
+    margin:100px;
+    
+}
+.pag3{
+    color: rgb(255, 255, 255);
+    line-height: 80px;
+    text-align: center;
+    font-size: 50px;
+    font-family: monospace;
+    font-weight: bolder;
+}
+.pag4{
+    color: aliceblue;
+    margin: 50px 80px;
+}
+.img4{
+    margin-top: -280px;
+    
+}
+.pag5{
+    color: aliceblue;
+    text-align:right;
+    margin:200px  500px;
+    margin-top: -300px;
+    
+    
+}
+.header{
+    text-align: center;
+    font-family: monospace;
+    color: aliceblue;
+    font-size: 40px;
+    font-weight: bolder;
+}
+.query{
+    color: aliceblue;
+    margin:50px  200px;
+    font-size: x-large;
+    
+}
+.footer{
+    color: aliceblue;
+    text-align: center;
+    font-family: monospace;
+    font-size: x-large;
+    
+}
+
+
+
+
+
